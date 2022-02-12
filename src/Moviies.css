@@ -1,0 +1,31 @@
+.containerMovies{
+    display: flex;
+    overflow-x: auto;
+}
+.ant-card-bordered{
+min-width: 300px;
+    padding: 10px;
+    margin: 10px !important;
+}
+.imgMovies{
+    width: 280px;
+    height: 350px;
+    margin: 10px;
+    margin: 0 !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+#requestBa{
+    width: 400px;
+}
+.countersearh{
+    width: 400px;
+    margin: 0 auto;
+}
+.containerLoading{
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    margin-top: 200px;
+}
+
